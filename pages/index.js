@@ -54,7 +54,7 @@ export default function Home() {
       <div className="wedding-header fade-in">
   <h1 className="wedding-title-elegant">Boda Chris y Romi</h1>
   <div className="wedding-line"></div>
-  <p className="wedding-subtitle">25 • 05 • 2024</p>
+  <p className="wedding-subtitle">15 • 11 • 2025</p>
 </div>
 
       <div className="card fade-in">
